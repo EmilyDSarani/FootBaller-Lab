@@ -9,3 +9,11 @@
 8) Consider your data model. What objects will you be using? What are the key/value pairs? What arrays do you need? What needs to live in local storage?
 9) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
 
+Exercise: make a football scoreboard that keeps track of two teams’ scores. Scores should increment by 7 every time the button is clicked.
+
+HTML- Need 4 buttons and 2 divs
+Teams: The Montegues vs The Capulets 
+Montegue Scores go up and down with click
+Capulets Scores go up and down with click
+
+Events- need there to be a click where the scores go up and down
